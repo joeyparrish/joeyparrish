@@ -1,0 +1,8 @@
+# Folders with dotfiles are ignored by default.
+include: [.well-known]
+
+# Site metadata
+title: ""  # Disables the generated <h1> in favor of the one I wrote
+email: joey.parrish@gmail.com
+description: About Joey Parrish and his projects.
+github_username: joeyparrish
