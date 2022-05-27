@@ -65,10 +65,13 @@
       Manage issues across GitHub repositories.
     </td>
     <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
     </td>
     <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
     </td>
     <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
     </td>
   </tr>
   <tr>
@@ -179,10 +182,13 @@
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
     </td>
     <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
     </td>
     <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
     </td>
   </tr>
 </table>
@@ -197,10 +203,13 @@
       the name suggests!
     </td>
     <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
     </td>
     <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
     </td>
     <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
     </td>
   </tr>
 </table>
