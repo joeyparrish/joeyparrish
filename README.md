@@ -157,7 +157,7 @@
     <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/joeyparrish/pokeheim/">
         <img alt="Pokeheim logo" src="logos/Pokeheim.png"><br>
-        Pokeheim
+        Pokéheim
       </a></h4>
       A Valheim mod where you must catch monsters to fight for you.<br>
       <ul align="left">
