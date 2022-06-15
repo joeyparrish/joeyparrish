@@ -155,13 +155,15 @@
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
-      <h4>
+      <h4><a href="https://github.com/joeyparrish/pokeheim/">
         <img alt="Pokeheim logo" src="logos/Pokeheim.png"><br>
         Pokeheim
-      </h4>
+      </a></h4>
       A Valheim mod where you must catch monsters to fight for you.<br>
       <ul align="left">
-        <li>Coming soon!</li>
+        <li><a href="https://github.com/joeyparrish/pokeheim/">GitHub</a></li>
+        <li><a href="https://valheim.thunderstore.io/package/joeyparrish/Pokeheim/">Thunderstore</a></li>
+        <li><a href="https://www.nexusmods.com/valheim/mods/1919">Nexus Mods</a></li>
       </ul>
     </td>
   </tr>
