@@ -162,7 +162,7 @@
       A Valheim mod where you must catch monsters to fight for you.<br>
       <ul align="left">
         <li><a href="https://github.com/joeyparrish/pokeheim/">GitHub</a></li>
-        <li><a href="https://valheim.thunderstore.io/package/joeyparrish/Pokeheim/">Thunderstore</a></li>
+        <li><a href="https://valheim.thunderstore.io/package/Pokeheim/Pokeheim/">Thunderstore</a></li>
         <li><a href="https://www.nexusmods.com/valheim/mods/1919">Nexus Mods</a></li>
       </ul>
     </td>
