@@ -155,16 +155,44 @@
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
+    </td>
+  </tr>
+</table>
+
+<h3>Valheim Mods</h3>
+
+<table>
+  <tr>
+    <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/joeyparrish/pokeheim/">
         <img alt="Pokeheim logo" src="logos/Pokeheim.png"><br>
         Pokéheim
       </a></h4>
-      A Valheim mod where you must catch monsters to fight for you.<br>
+      Catch monsters to fight for you.<br>
       <ul align="left">
         <li><a href="https://github.com/joeyparrish/pokeheim/">GitHub</a></li>
         <li><a href="https://valheim.thunderstore.io/package/Pokeheim/Pokeheim/">Thunderstore</a></li>
         <li><a href="https://www.nexusmods.com/valheim/mods/1919">Nexus Mods</a></li>
       </ul>
+    </td>
+    <td valign="top" align="center" width="25%">
+      <h4><a href="https://github.com/joeyparrish/valheim-farmcounter/">
+        <img alt="FarmCounter logo" src="logos/FarmCounter.png"><br>
+        FarmCounter
+      </a></h4>
+      Keep track of the animals on your farm.<br>
+      <ul align="left">
+        <li><a href="https://github.com/joeyparrish/valheim-farmcounter/">GitHub</a></li>
+        <li><a href="https://valheim.thunderstore.io/package/joeyparrish/FarmCounter/">FarmCounter</a></li>
+        <li><a href="https://www.nexusmods.com/valheim/mods/1952">Nexus Mods</a></li>
+      </ul>
+    </td>
+    <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
+    </td>
+    <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
     </td>
   </tr>
 </table>
