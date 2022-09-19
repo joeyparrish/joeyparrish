@@ -228,12 +228,24 @@
 <table>
   <tr>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/joeyparrish/total-perspective-vortex">Total Perspective Vortex</a></h5>
+      <h4><a href="https://github.com/joeyparrish/total-perspective-vortex">
+        <img alt="Total Perspective Vortex logo" src="logos/TPV.png"><br>
+        Total Perspective Vortex
+      </a></h4>
       Configures services based on templates and a YAML config file, just like
       the name suggests!
     </td>
     <td valign="top" align="center" width="25%">
-      <img alt="" src="logos/spacer-512.png">
+      <h4><a href="https://github.com/joeyparrish/upfish/">
+        <img alt="UpFish logo" src="logos/UpFish.png"><br>
+        UpFish
+      </a></h4>
+      Dynamically making fun of your movies.<br>
+      <ul align="left">
+        <li><a href="https://upfish.fans/">Web Site</a></li>
+        <li><a href="https://chrome.google.com/webstore/detail/upfish/cjjgmbadhgclcfblcmoamgkbldmcbpbl">Chrome Web Store</a></li>
+        <li><a href="https://github.com/joeyparrish/upfish/">GitHub</a></li>
+      </ul>
     </td>
     <td valign="top" align="center" width="25%">
       <img alt="" src="logos/spacer-512.png">
