@@ -5,6 +5,8 @@
   <img alt="Joey Parrish" src="Joey-circle.png" height="48" align="right">
 </h1>
 
+<div align="right"><a href="#contact">Contact</a></div>
+
 <h2>Professional Projects</h2>
 
 <table>
@@ -255,3 +257,10 @@
     </td>
   </tr>
 </table>
+
+<h2 id="contact">Contact</h2>
+
+<div>Email: <a href="mailto:joey.parrish@gmail.com">joey.parrish@gmail.com</a></div>
+<div>video-dev Slack: <a href="https://video-dev.org/">https://video-dev.org/</a></div>
+<div>Pokemon Go: 6171 9255 3006 <a href="logos/trainer-code.png">(QR)</a></div>
+<div>Sorry, I don't do social media or LinkedIn.</div>
