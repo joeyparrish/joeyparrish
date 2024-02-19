@@ -200,24 +200,6 @@
   </tr>
 </table>
 
-<h3>Electronics</h3>
-
-<table>
-  <tr>
-    <td valign="top" align="center" width="25%">
-    </td>
-    <td valign="top" align="center" width="25%">
-      <img alt="" src="logos/spacer-512.png">
-    </td>
-    <td valign="top" align="center" width="25%">
-      <img alt="" src="logos/spacer-512.png">
-    </td>
-    <td valign="top" align="center" width="25%">
-      <img alt="" src="logos/spacer-512.png">
-    </td>
-  </tr>
-</table>
-
 <h3>Misc.</h3>
 
 <table>
