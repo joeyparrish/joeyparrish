@@ -32,8 +32,9 @@
       One-step transcoding, packaging, and delivery to cloud storage.
     </td>
     <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/shaka-project/shaka-player-embedded">Shaka Player Embedded</a></h4>
-      Streaming media playback in iOS native.
+      <h4><a href="https://github.com/shaka-project/shaka-lab">Shaka Lab Packages</a></h4>
+      Everything that runs the Shaka lab environment, conveniently packaged for
+      Linux, macOS, and Windows.
     </td>
   </tr>
   <tr>
@@ -204,14 +205,6 @@
 <table>
   <tr>
     <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/joeyparrish/RetCon/">
-        <img alt="RetCon logo" src="logos/RetCon.png"><br>
-        RetCon
-      </a></h4>
-      Wireless PS3 controllers on 8-bit and 16-bit consoles.<br>
-      <ul align="left">
-        <li><a href="https://github.com/joeyparrish/RetCon/">GitHub</a></li>
-      </ul>
     </td>
     <td valign="top" align="center" width="25%">
       <img alt="" src="logos/spacer-512.png">
@@ -258,9 +251,45 @@
   </tr>
 </table>
 
+<h3>Deprecated</h3>
+<details>
+  <summary>Expand to see deprecated projects.</summary>
+  <table>
+    <tr>
+      <td valign="top" align="center" width="25%">
+        <h4><a href="https://github.com/joeyparrish/RetCon/">
+          <img alt="RetCon logo" src="logos/RetCon.png"><br>
+          RetCon
+        </a></h4>
+        Wireless PS3 controllers on 8-bit and 16-bit consoles.
+        Deprecated in favor of products from
+        <a href="https://www.8bitdo.com/">8bitdo.com</a>.<br>
+        <ul align="left">
+          <li><a href="https://github.com/joeyparrish/RetCon/">GitHub</a></li>
+        </ul>
+      </td>
+      <td valign="top" align="center" width="25%">
+        <h4><a href="https://github.com/shaka-project/shaka-player-embedded">
+          <img alt="Shaka Player Embedded logo" src="logos/Shaka-Embedded.png"><br>
+            Shaka Player Embedded
+        </a></h4>
+        Streaming media playback in iOS native.
+        Deprecated due to lack of internal funding and external interest.
+      </td>
+      <td valign="top" align="center" width="25%">
+        <img alt="" src="logos/spacer-512.png">
+      </td>
+      <td valign="top" align="center" width="25%">
+        <img alt="" src="logos/spacer-512.png">
+      </td>
+    </tr>
+  </table>
+</details>
+
 <h2 id="contact">Contact</h2>
 
 <div>Email: <a href="mailto:joey.parrish@gmail.com">joey.parrish@gmail.com</a></div>
 <div>video-dev Slack: <a href="https://video-dev.org/">https://video-dev.org/</a></div>
+<div>LinkedIn: <a href="https://www.linkedin.com/in/joey-parrish-64258a297/">https://www.linkedin.com/in/joey-parrish-64258a297/</a></div>
 <div>Pokemon Go: 6171 9255 3006 <a href="logos/trainer-code.png">(QR)</a></div>
-<div>Sorry, I don't do social media or LinkedIn.</div>
+<div>Sorry, I don't do social media.</div>
