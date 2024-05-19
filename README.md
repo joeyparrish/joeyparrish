@@ -20,58 +20,106 @@
   </tr>
   <tr>
     <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/shaka-project/shaka-player">Shaka Player</a></h4>
+      <h4><a href="https://github.com/shaka-project/shaka-player">
+        Shaka Player
+      </a></h4>
       Streaming media playback on the web.
     </td>
     <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/shaka-project/shaka-packager">Shaka Packager</a></h4>
+      <h4><a href="https://github.com/shaka-project/shaka-packager">
+        Shaka Packager
+      </a></h4>
       Streaming media packaging in DASH & HLS.
     </td>
     <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/shaka-project/shaka-streamer">Shaka Streamer</a></h4>
+      <h4><a href="https://github.com/shaka-project/shaka-streamer">
+        Shaka Streamer
+      </a></h4>
       One-step transcoding, packaging, and delivery to cloud storage.
     </td>
     <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/shaka-project/shaka-lab">Shaka Lab Packages</a></h4>
+      <h4><a href="https://github.com/shaka-project/shaka-lab">
+        Shaka Lab Packages
+      </a></h4>
       Everything that runs the Shaka lab environment, conveniently packaged for
       Linux, macOS, and Windows.
     </td>
   </tr>
   <tr>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/shaka-project/generic-webdriver-server/">Generic WebDriver Server</a></h5>
+      <h5><a href="https://github.com/shaka-project/generic-webdriver-server/">
+        Generic WebDriver Server
+      </a></h5>
       Limited WebDriver support for testing on
       Chromecast, ChromeOS, Tizen, and Xbox One.
     </td>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/shaka-project/webdriver-installer/">WebDriver Installer</a></h5>
+      <h5><a href="https://github.com/shaka-project/webdriver-installer/">
+        WebDriver Installer
+      </a></h5>
       One-step installation of the correct drivers and versions for your
       installed browsers.
     </td>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/shaka-project/static-ffmpeg-binaries/">Static FFmpeg Binaries</a></h5>
+      <h5><a href="https://github.com/shaka-project/static-ffmpeg-binaries/">
+        Static FFmpeg Binaries
+      </a></h5>
       Static binaries for multiple OS & CPU combinations, built from source in
       plain view with GitHub Actions.  (Used by Shaka Streamer.)
     </td>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/shaka-project/karma-local-wd-launcher/">Karma Local WebDriver Launcher</a></h5>
+      <h5><a href="https://github.com/shaka-project/karma-local-wd-launcher/">
+        Karma Local WebDriver Launcher
+      </a></h5>
       Karma Launcher that launches browsers locally via WebDriver, using
       <a href="https://github.com/shaka-project/webdriver-installer/">WebDriver Installer</a>.
     </td>
   </tr>
   <tr>
     <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/google/triage-party/">
+      <h5><a href="https://github.com/shaka-project/express-chocolatey-server/">
+        Express Chocolatey Server
+      </a></h5>
+      A simple Chocolatey package server for Express, used to serve <a href="https://github.com/shaka-project/shaka-lab/">Shaka Lab packages</a> for Windows.
+    </td>
+    <td valign="top" align="center" width="25%">
+      <h5><a href="https://github.com/shaka-project/shaka-github-tools/">
+        Shaka GitHub Tools
+      </a></h5>
+      Tools and infrastructure shared among Shaka team projects on GitHub.
+    </td>
+    <td valign="top" align="center" width="25%">
+      <h5><a href="https://github.com/shaka-project/shaka-project.github.io/">
+        Shaka Project Documentation
+      </a></h5>
+      <a href="https://shaka-project.github.io/">Documentation for maintenance and development processes</a> across Shaka projects.
+    </td>
+    <td valign="top" align="center" width="25%">
+      <h5><a href="https://github.com/joeyparrish/shaka-player-ph/">
+        Shaka Player Project Health
+      </a></h5>
+      Tracking <a href="https://joeyparrish.github.io/shaka-player-ph/">Project Health (PH) metrics for Shaka Player</a>.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center" width="25%">
+      <h5><a href="https://github.com/google/triage-party/">
         <img alt="Triage Party logo" src="logos/Triage-Party.png"><br>
         Triage Party
-      </a></h4>
+      </a></h5>
       Manage issues across GitHub repositories.
     </td>
     <td valign="top" align="center" width="25%">
-      <img alt="" src="logos/spacer-512.png">
+      <h5><a href="https://github.com/shaka-project/triage-party-config/">
+        Shaka Triage Party Config
+      </a></h5>
+      Configuration and customization for <a href="https://triage-party.shakalab.rocks/">Shaka Team's instance of Triage Party</a>, triaging issues across different categories of projects.
     </td>
     <td valign="top" align="center" width="25%">
-      <img alt="" src="logos/spacer-512.png">
+      <h5><a href="https://github.com/joeyparrish/chromecast-receivers/">
+        Chromecast debugging receivers
+      </a></h5>
+      Some <a href="https://joeyparrish.github.io/chromecast-receivers/">useful Chromecast receivers for debugging</a>.
     </td>
     <td valign="top" align="center" width="25%">
       <img alt="" src="logos/spacer-512.png">
@@ -94,7 +142,9 @@
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/shaka-project/eme-encryption-scheme-polyfill/">EME Encryption Scheme Polyfill</a></h5>
+      <h5><a href="https://github.com/shaka-project/eme-encryption-scheme-polyfill/">
+        EME Encryption Scheme Polyfill
+      </a></h5>
       A polyfill to add encryption scheme query support to both the EME and
       MediaCapabilities APIs.
     </td>
@@ -107,7 +157,9 @@
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/shaka-project/trace-anything/">Trace Anything</a></h5>
+      <h5><a href="https://github.com/shaka-project/trace-anything/">
+        Trace Anything
+      </a></h5>
       The generic tracing engine behind EME Logger.
     </td>
   </tr>
