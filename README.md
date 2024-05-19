@@ -210,7 +210,23 @@
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
-      <img alt="" src="logos/spacer-512.png">
+      <h4><a href="https://joeyparrish.github.io/letterboxed/">
+        <img alt="Letterboxed logo" src="logos/Letterboxed.png"><br>
+        Letterboxed clone
+      </a></h4>
+      A recreation of the <a href="https://www.nytimes.com/puzzles/letter-boxed">New York Times' Letter Boxed Game</a>.<br>
+      Improvements:<br>
+      <ol align="left">
+        <li>Offline play</li>
+        <li>Archive of past puzzles</li>
+        <li>New puzzles generated from English poetry</li>
+        <li>Share results button</li>
+      </ol>
+      <hr>
+      <ul align="left">
+        <li><a href="https://github.com/joeyparrish/letterboxed/">GitHub</a></li>
+        <li><a href="https://joeyparrish.github.io/letterboxed/">Play in Browser</a></li>
+      </ul>
     </td>
   </tr>
 </table>
