@@ -217,7 +217,11 @@ th {
     </td>
     <td valign="top" align="center" width="25%">
       <h4><a href="https://joeyparrish.github.io/letterboxed/">
-        <img alt="Letterboxed logo" src="logos/Letterboxed.png"><br>
+        <picture>
+          <source srcset="logos/Letterboxed-dark.png" media="(prefers-color-scheme: dark)" />
+          <source srcset="logos/Letterboxed.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img alt="Letterboxed logo" src="logos/Letterboxed.png">
+        </picture><br>
         Letterboxed clone
       </a></h4>
       A recreation of the <a href="https://www.nytimes.com/puzzles/letter-boxed">NYT Letter Boxed Game</a>.<br>
@@ -266,7 +270,11 @@ th {
     </td>
     <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/joeyparrish/valheim-musicmod/">
-        <img alt="MusicMod logo" src="logos/MusicMod.png"><br>
+        <picture>
+          <source srcset="logos/MusicMod-dark.png" media="(prefers-color-scheme: dark)" />
+          <source srcset="logos/MusicMod.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img alt="MusicMod logo" src="logos/MusicMod.png">
+        </picture><br>
         MusicMod
       </a></h4>
       A base mod that you can depend on to add custom music to your own mod.  Used in Pokéheim.<br>
@@ -288,7 +296,11 @@ th {
   <tr>
     <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/joeyparrish/total-perspective-vortex">
-        <img alt="Total Perspective Vortex logo" src="logos/TPV.png"><br>
+        <picture>
+          <source srcset="logos/TPV-dark.png" media="(prefers-color-scheme: dark)" />
+          <source srcset="logos/TPV.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img alt="Total Perspective Vortex logo" src="logos/TPV.png">
+        </picture><br>
         Total Perspective Vortex
       </a></h4>
       Configures services based on templates and a YAML config file, just like
@@ -311,8 +323,8 @@ th {
         <picture>
           <source srcset="logos/LMRTFY-dark.png" media="(prefers-color-scheme: dark)" />
           <source srcset="logos/LMRTFY.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img alt="LMRTFY logo" src="logos/LMRTFY.png"><br>
-        </picture>
+          <img alt="LMRTFY logo" src="logos/LMRTFY.png">
+        </picture><br>
         LMRTFY
       </a></h4>
       A clone of "Let Me Google That For You", with a twist.
@@ -375,7 +387,11 @@ th {
     <tr>
       <td valign="top" align="center" width="25%">
         <h4><a href="https://github.com/joeyparrish/RetCon/">
-          <img alt="RetCon logo" src="logos/RetCon.png"><br>
+          <picture>
+            <source srcset="logos/RetCon-dark.png" media="(prefers-color-scheme: dark)" />
+            <source srcset="logos/RetCon.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+            <img alt="RetCon logo" src="logos/RetCon.png">
+          </picture><br>
           RetCon
         </a></h4>
         Wireless PS3 controllers on 8-bit and 16-bit consoles.
