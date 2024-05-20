@@ -53,78 +53,78 @@ th {
   </tr>
   <tr>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/shaka-project/generic-webdriver-server/">
+      <h4><a href="https://github.com/shaka-project/generic-webdriver-server/">
         Generic WebDriver Server
-      </a></h5>
+      </a></h4>
       Limited WebDriver support for testing on
       Chromecast, ChromeOS, Tizen, and Xbox One.
     </td>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/shaka-project/webdriver-installer/">
+      <h4><a href="https://github.com/shaka-project/webdriver-installer/">
         WebDriver Installer
-      </a></h5>
+      </a></h4>
       One-step installation of the correct drivers and versions for your
       installed browsers.
     </td>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/shaka-project/static-ffmpeg-binaries/">
+      <h4><a href="https://github.com/shaka-project/static-ffmpeg-binaries/">
         Static FFmpeg Binaries
-      </a></h5>
+      </a></h4>
       Static binaries for multiple OS & CPU combinations, built from source in
       plain view with GitHub Actions.  (Used by Shaka Streamer.)
     </td>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/shaka-project/karma-local-wd-launcher/">
+      <h4><a href="https://github.com/shaka-project/karma-local-wd-launcher/">
         Karma Local WebDriver Launcher
-      </a></h5>
+      </a></h4>
       Karma Launcher that launches browsers locally via WebDriver, using
       <a href="https://github.com/shaka-project/webdriver-installer/">WebDriver Installer</a>.
     </td>
   </tr>
   <tr>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/shaka-project/express-chocolatey-server/">
+      <h4><a href="https://github.com/shaka-project/express-chocolatey-server/">
         Express Chocolatey Server
-      </a></h5>
+      </a></h4>
       A simple Chocolatey package server for Express, used to serve <a href="https://github.com/shaka-project/shaka-lab/">Shaka Lab packages</a> for Windows.
     </td>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/shaka-project/shaka-github-tools/">
+      <h4><a href="https://github.com/shaka-project/shaka-github-tools/">
         Shaka GitHub Tools
-      </a></h5>
+      </a></h4>
       Tools and infrastructure shared among Shaka team projects on GitHub.
     </td>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/shaka-project/shaka-project.github.io/">
+      <h4><a href="https://github.com/shaka-project/shaka-project.github.io/">
         Shaka Project Documentation
-      </a></h5>
+      </a></h4>
       <a href="https://shaka-project.github.io/">Documentation for maintenance and development processes</a> across Shaka projects.
     </td>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/joeyparrish/shaka-player-ph/">
+      <h4><a href="https://github.com/joeyparrish/shaka-player-ph/">
         Shaka Player Project Health
-      </a></h5>
+      </a></h4>
       Tracking <a href="https://joeyparrish.github.io/shaka-player-ph/">Project Health (PH) metrics for Shaka Player</a>.
     </td>
   </tr>
   <tr>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/google/triage-party/">
+      <h4><a href="https://github.com/google/triage-party/">
         <img alt="Triage Party logo" src="logos/Triage-Party.png"><br>
         Triage Party
-      </a></h5>
+      </a></h4>
       Manage issues across GitHub repositories.
     </td>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/shaka-project/triage-party-config/">
+      <h4><a href="https://github.com/shaka-project/triage-party-config/">
         Shaka Triage Party Config
-      </a></h5>
+      </a></h4>
       Configuration and customization for <a href="https://triage-party.shakalab.rocks/">Shaka Team's instance of Triage Party</a>, triaging issues across different categories of projects.
     </td>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/joeyparrish/chromecast-receivers/">
+      <h4><a href="https://github.com/joeyparrish/chromecast-receivers/">
         Chromecast debugging receivers
-      </a></h5>
+      </a></h4>
       Some <a href="https://joeyparrish.github.io/chromecast-receivers/">useful Chromecast receivers for debugging</a>.
     </td>
     <td valign="top" align="center" width="25%">
@@ -148,14 +148,14 @@ th {
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/shaka-project/eme-encryption-scheme-polyfill/">
+      <h4><a href="https://github.com/shaka-project/eme-encryption-scheme-polyfill/">
         EME Encryption Scheme Polyfill
-      </a></h5>
+      </a></h4>
       A polyfill to add encryption scheme query support to both the EME and
       MediaCapabilities APIs.
     </td>
     <td valign="top" align="center" width="25%">
-      <h5>EME Logger Chrome Extension</h5>
+      <h4>EME Logger Chrome Extension</h4>
       Logs and debugs all activity through EME and related media APIs.
       <ul align="left">
         <li><a href="https://github.com/shaka-project/eme_logger/">GitHub</a></li>
@@ -163,9 +163,9 @@ th {
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/shaka-project/trace-anything/">
+      <h4><a href="https://github.com/shaka-project/trace-anything/">
         Trace Anything
-      </a></h5>
+      </a></h4>
       The generic tracing engine behind EME Logger.
     </td>
   </tr>
@@ -334,10 +334,10 @@ th {
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/joeyparrish/acnh-flowers/">
+      <h4><a href="https://github.com/joeyparrish/acnh-flowers/">
         <img alt="ACNH Flower Guide for Nerds logo" src="logos/ACNH-Flowers.png"><br>
         ACNH Flower Guide for Nerds
-      </a></h5>
+      </a></h4>
       A detailed flower breeding guide for Animal Crossing: New Horizons.
       Includes detailed gene sequences, breeding outcome tables, and clear
       layout recommendations.  Plus, appendices!
@@ -349,23 +349,23 @@ th {
   </tr>
   <tr>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/joeyparrish/ssh-docker-jumpbox/">
+      <h4><a href="https://github.com/joeyparrish/ssh-docker-jumpbox/">
         SSH Docker Jumpbox
-      </a></h5>
+      </a></h4>
       A simple SSH jumpbox in a Docker container.
     </td>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/joeyparrish/mpa/">
+      <h4><a href="https://github.com/joeyparrish/mpa/">
         Moon Position Algorithm
-      </a></h5>
+      </a></h4>
       A C++ algorithm for computing the position of the moon.<br>
       A stripped-down version of <a href="https://midcdmz.nrel.gov/sampa/">SAMPA</a>
       (Sun And Moon Position Algorithm) that can run on some microcontrollers.
     </td>
     <td valign="top" align="center" width="25%">
-      <h5><a href="https://github.com/joeyparrish/get-thee-to-it/">
+      <h4><a href="https://github.com/joeyparrish/get-thee-to-it/">
         get.thee.to.it
-      </a></h5>
+      </a></h4>
       Experimental link shortener served entirely from GitHub.<br>
       Use GitHub Pages deployments as a link shortener, GitHub Actions as the
       UI, and the GitHub repo as a database.
@@ -410,15 +410,15 @@ th {
         Deprecated due to lack of internal funding and external interest.
       </td>
       <td valign="top" align="center" width="25%">
-        <h5><a href="https://github.com/joeyparrish/karma-github-actions-reporter/">
+        <h4><a href="https://github.com/joeyparrish/karma-github-actions-reporter/">
           Karma GitHub Actions Reporter
-        </a></h5>
+        </a></h4>
         A Karma plugin to report failed tests via GitHub Actions annotations.
       </td>
       <td valign="top" align="center" width="25%">
-        <h5><a href="https://github.com/joeyparrish/apple-logger/">
+        <h4><a href="https://github.com/joeyparrish/apple-logger/">
           Apple Logger
-        </a></h5>
+        </a></h4>
         Command-line tool to write to Apple's Unified Logging interface.
       </td>
     </tr>
