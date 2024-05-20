@@ -1,11 +1,5 @@
 <!-- This HTML is also valid GitHub MarkDown.  Who knew?-->
 
-<style>
-th {
-  text-align: center;
-}
-</style>
-
 <h1>
   Joey Parrish
   <img alt="Joey Parrish" src="Joey-circle.png" height="48" align="right">
@@ -17,7 +11,7 @@ th {
 
 <table>
   <tr>
-    <th colspan="4">
+    <th colspan="4" style="text-align: center">
       <h3><a href="https://github.com/shaka-project/">
         <img alt="Shaka logo" src="logos/Shaka.png" width="25%"><br>
         Shaka Project
@@ -132,7 +126,7 @@ th {
     </td>
   </tr>
   <tr>
-    <th colspan="4">
+    <th colspan="4" style="text-align: center">
       <h3><a href="https://w3c.github.io/encrypted-media/">
         <img alt="EME logo" src="logos/EME.png" width="25%"><br>
         Encrypted Media Extensions
