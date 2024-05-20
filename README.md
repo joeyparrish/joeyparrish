@@ -301,7 +301,56 @@
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
-      <img alt="" src="logos/spacer-512.png">
+      <h4><a href="https://github.com/joeyparrish/lmrtfy/">
+        <img alt="LMRTFY logo" src="logos/LMRTFY.png"><br>
+        LMRTFY
+      </a></h4>
+      A clone of "Let Me Google That For You", with a twist.
+      <ul align="left">
+        <li><a href="https://rickthat.com/">Web Site</a></li>
+        <li><a href="https://github.com/joeyparrish/lmrtfy/">GitHub</a></li>
+      </ul>
+    </td>
+    <td valign="top" align="center" width="25%">
+      <h5><a href="https://github.com/joeyparrish/acnh-flowers/">
+        <img alt="ACNH Flower Guide for Nerds logo" src="logos/ACNH-Flowers.png"><br>
+        ACNH Flower Guide for Nerds
+      </a></h5>
+      A detailed flower breeding guide for Animal Crossing: New Horizons.
+      Includes detailed gene sequences, breeding outcome tables, and clear
+      layout recommendations.  Plus, appendices!
+      <ul align="left">
+        <li><a href="https://joeyparrish.github.io/acnh-flowers/">Web Site</a></li>
+        <li><a href="https://github.com/joeyparrish/acnh-flowers">GitHub</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center" width="25%">
+      <h5><a href="https://github.com/joeyparrish/ssh-docker-jumpbox/">
+        SSH Docker Jumpbox
+      </a></h5>
+      A simple SSH jumpbox in a Docker container.
+    </td>
+    <td valign="top" align="center" width="25%">
+      <h5><a href="https://github.com/joeyparrish/mpa/">
+        Moon Position Algorithm
+      </a></h5>
+      A C++ algorithm for computing the position of the moon.<br>
+      A stripped-down version of <a href="https://midcdmz.nrel.gov/sampa/">SAMPA</a>
+      (Sun And Moon Position Algorithm) that can run on some microcontrollers.
+    </td>
+    <td valign="top" align="center" width="25%">
+      <h5><a href="https://github.com/joeyparrish/get-thee-to-it/">
+        get.thee.to.it
+      </a></h5>
+      Experimental link shortener served entirely from GitHub.<br>
+      Use GitHub Pages deployments as a link shortener, GitHub Actions as the
+      UI, and the GitHub repo as a database.
+      <ul align="left">
+        <li><a href="https://get.thee.to.it/latteart">Sample Short Link</a></li>
+        <li><a href="https://github.com/joeyparrish/get-thee-to-it/">GitHub</a></li>
+      </ul>
     </td>
     <td valign="top" align="center" width="25%">
       <img alt="" src="logos/spacer-512.png">
@@ -335,10 +384,16 @@
         Deprecated due to lack of internal funding and external interest.
       </td>
       <td valign="top" align="center" width="25%">
-        <img alt="" src="logos/spacer-512.png">
+        <h5><a href="https://github.com/joeyparrish/karma-github-actions-reporter/">
+          Karma GitHub Actions Reporter
+        </a></h5>
+        A Karma plugin to report failed tests via GitHub Actions annotations.
       </td>
       <td valign="top" align="center" width="25%">
-        <img alt="" src="logos/spacer-512.png">
+        <h5><a href="https://github.com/joeyparrish/apple-logger/">
+          Apple Logger
+        </a></h5>
+        Command-line tool to write to Apple's Unified Logging interface.
       </td>
     </tr>
   </table>
