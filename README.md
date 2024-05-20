@@ -1,5 +1,11 @@
 <!-- This HTML is also valid GitHub MarkDown.  Who knew?-->
 
+<style>
+th {
+  text-align: center;
+}
+</style>
+
 <h1>
   Joey Parrish
   <img alt="Joey Parrish" src="Joey-circle.png" height="48" align="right">
@@ -302,7 +308,11 @@
     </td>
     <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/joeyparrish/lmrtfy/">
-        <img alt="LMRTFY logo" src="logos/LMRTFY.png"><br>
+        <picture>
+          <source srcset="logos/LMRTFY-dark.png" media="(prefers-color-scheme: dark)" />
+          <source srcset="logos/LMRTFY.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img alt="LMRTFY logo" src="logos/LMRTFY.png"><br>
+        </picture>
         LMRTFY
       </a></h4>
       A clone of "Let Me Google That For You", with a twist.

@@ -6,3 +6,8 @@ title: ""  # Disables the generated <h1> in favor of the one I wrote
 email: joey.parrish@gmail.com
 description: About Joey Parrish and his projects.
 github_username: joeyparrish
+
+# Latest minima theme which supports dark mode
+remote_theme: jekyll/minima
+minima:
+  skin: auto  # Light or dark mode by user preference
