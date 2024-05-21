@@ -18,6 +18,7 @@
       </a></h3>
     </th>
   </tr>
+
   <tr>
     <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/shaka-project/shaka-player">
@@ -45,6 +46,7 @@
       Linux, macOS, and Windows.
     </td>
   </tr>
+
   <tr>
     <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/shaka-project/generic-webdriver-server/">
@@ -75,6 +77,7 @@
       <a href="https://github.com/shaka-project/webdriver-installer/">WebDriver Installer</a>.
     </td>
   </tr>
+
   <tr>
     <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/shaka-project/express-chocolatey-server/">
@@ -101,6 +104,7 @@
       Tracking <a href="https://joeyparrish.github.io/shaka-player-ph/">Project Health (PH) metrics for Shaka Player</a>.
     </td>
   </tr>
+
   <tr>
     <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/google/triage-party/">
@@ -125,6 +129,7 @@
       <img alt="" src="logos/spacer-512.png">
     </td>
   </tr>
+
   <tr>
     <th colspan="4" style="text-align: center">
       <h3><a href="https://w3c.github.io/encrypted-media/">
@@ -133,6 +138,7 @@
       </a></h3>
     </th>
   </tr>
+
   <tr>
     <td valign="top" align="center" width="25%">
       <h4>EME Spec Editor @W3C</h4>
@@ -341,6 +347,7 @@
       </ul>
     </td>
   </tr>
+
   <tr>
     <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/joeyparrish/ssh-docker-jumpbox/">
@@ -369,7 +376,14 @@
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
-      <img alt="" src="logos/spacer-512.png">
+      <h4><a href="https://github.com/joeyparrish/flashkit-md-py/">
+        FlashKit MD Python Client
+      </a></h4>
+      Drive the <a href="https://krikzz.com/our-products/accessories/flashkitmd.html">Krikzz FlashKit Programmer MD</a> to flash Sega Genesis carts from the command-line.
+      <ul align="left">
+        <li><a href="https://pypi.org/project/flashkit/">PyPi</a></li>
+        <li><a href="https://github.com/joeyparrish/flashkit-md-py/">GitHub</a></li>
+      </ul>
     </td>
   </tr>
 </table>
