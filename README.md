@@ -433,6 +433,10 @@
   </table>
 </details>
 
+<br><br>
+
+<hr>
+
 <h2 id="contact">Contact</h2>
 
 <div>Email: <a href="mailto:joey.parrish@gmail.com">joey.parrish@gmail.com</a></div>
