@@ -376,6 +376,34 @@
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" align="center" width="25%">
+      <h4><a href="https://github.com/joeyparrish/kinetoscope/">
+        <picture>
+          <source srcset="logos/Kinetoscope-dark.png" media="(prefers-color-scheme: dark)" />
+          <source srcset="logos/Kinetoscope.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img alt="Kinetoscope" src="logos/Kinetoscope.png">
+        </picture><br>
+        Kinetoscope
+      </a></h4>
+      Streaming video for the Sega Genesis / Mega Drive!
+      <ul align="left">
+        <li><a href="https://joeyparrish.github.io/kinetoscope/">Web Emulator Demo</a></li>
+        <li><a href="https://github.com/joeyparrish/kinetoscope/releases">Releases</a></li>
+        <li><a href="https://github.com/joeyparrish/kinetoscope/">GitHub</a></li>
+      </ul>
+    </td>
+    <td valign="top" align="center" width="25%">
+      <h4><a href="https://github.com/joeyparrish/sega-slides/">
+        Sega Genesis Slide Generator and Viewer
+      </a></h4>
+      Create a Sega Genesis / Mega Drive ROM from a PDF of a slide show.
+    </td>
+    <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/joeyparrish/flashkit-md-py/">
         FlashKit MD Python Client
       </a></h4>
@@ -384,6 +412,9 @@
         <li><a href="https://pypi.org/project/flashkit/">PyPi</a></li>
         <li><a href="https://github.com/joeyparrish/flashkit-md-py/">GitHub</a></li>
       </ul>
+    </td>
+    <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
     </td>
   </tr>
 </table>
