@@ -108,8 +108,8 @@
   <tr>
     <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/google/triage-party/">
-        <img alt="Triage Party logo" src="logos/Triage-Party.png"><br>
         Triage Party
+        <img alt="Triage Party logo" src="logos/Triage-Party.png" style="width: 1em">
       </a></h4>
       Manage issues across GitHub repositories.
     </td>
