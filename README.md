@@ -240,6 +240,46 @@
   </tr>
 </table>
 
+
+<h3>Publications</h3>
+
+<table>
+  <tr>
+    <td valign="top" align="center" width="25%">
+      <h4><a href="https://ferengi.bible/">
+        <img alt="Ferengi Alliance logo" src="logos/Ferengi.png"><br>
+        The Ferengi Rules of Acquisition
+      </a></h4>
+      The sacred text of the Ferengi people, now in convenient web form!
+      An Alpha-Quadrant best-seller!
+      <ul align="left">
+        <li><a href="https://ferengi.bible/">Web Site</a></li>
+        <li><a href="https://github.com/joeyparrish/rules-of-acquisition/#readme">GitHub</a></li>
+      </ul>
+    </td>
+    <td valign="top" align="center" width="25%">
+      <h4><a href="https://joeyparrish.github.io/acnh-flowers/">
+        <img alt="ACNH Flower Guide for Nerds logo" src="logos/ACNH-Flowers.png"><br>
+        ACNH Flower Guide for Nerds
+      </a></h4>
+      A detailed flower guide for <i>Animal Crossing: New Horizons</i>,
+      with genes, breeding tables, and clear layouts.
+      Plus, appendices!
+      <ul align="left">
+        <li><a href="https://joeyparrish.github.io/acnh-flowers/">Web Site</a></li>
+        <li><a href="https://github.com/joeyparrish/acnh-flowers">GitHub</a></li>
+      </ul>
+    </td>
+    <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
+    </td>
+    <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
+    </td>
+  </tr>
+</table>
+
+
 <h3>Valheim Mods</h3>
 
 <table>
@@ -334,17 +374,7 @@
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/joeyparrish/acnh-flowers/">
-        <img alt="ACNH Flower Guide for Nerds logo" src="logos/ACNH-Flowers.png"><br>
-        ACNH Flower Guide for Nerds
-      </a></h4>
-      A detailed flower breeding guide for Animal Crossing: New Horizons.
-      Includes detailed gene sequences, breeding outcome tables, and clear
-      layout recommendations.  Plus, appendices!
-      <ul align="left">
-        <li><a href="https://joeyparrish.github.io/acnh-flowers/">Web Site</a></li>
-        <li><a href="https://github.com/joeyparrish/acnh-flowers">GitHub</a></li>
-      </ul>
+      <img alt="" src="logos/spacer-512.png">
     </td>
   </tr>
 
@@ -376,7 +406,15 @@
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
-      <img alt="" src="logos/spacer-512.png">
+      <h4><a href="https://github.com/joeyparrish/lego-spike-electron-app/">
+        LEGO SPIKE Electron App
+      </a></h4>
+      Give your kid access to the LEGO SPIKE web app without a full browser.<br>
+      Debian packages hosted on GitHub Pages, installable with apt.
+      <ul align="left">
+        <li><a href="https://github.com/joeyparrish/lego-spike-electron-app/#readme">GitHub</a></li>
+        <li><a href="https://education.lego.com/en-us/products/lego-education-spike-prime-set/45678/">LEGO SPIKE Prime Kit for First Lego League</a></li>
+      </ul>
     </td>
   </tr>
 
