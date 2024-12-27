@@ -49,6 +49,24 @@
 
   <tr>
     <td valign="top" align="center" width="25%">
+      <h4><a href="https://github.com/shaka-project/static-ffmpeg-binaries/">
+        Static FFmpeg Binaries
+      </a></h4>
+      Static binaries for multiple OS & CPU combinations, built from source in
+      plain view with GitHub Actions.  (Used by Shaka Streamer.)
+    </td>
+    <td valign="top" align="center" width="25%">
+      <h4><a href="https://github.com/shaka-project/shaka-player-history/">
+        Shaka Player History Live Stream
+      </a></h4>
+      An example of Shaka Streamer running a live stream,
+      based on the commit history of Shaka Player.
+      <ul align="left">
+        <li><a href="https://github.com/shaka-project/shaka-player-history">GitHub</a></li>
+        <li><a href="https://get.thee.to.it/watch-shaka-player-history">Watch Live</a></li>
+      </ul>
+    </td>
+    <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/shaka-project/generic-webdriver-server/">
         Generic WebDriver Server
       </a></h4>
@@ -62,12 +80,26 @@
       One-step installation of the correct drivers and versions for your
       installed browsers.
     </td>
+  </tr>
+
+  <tr>
     <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/shaka-project/static-ffmpeg-binaries/">
-        Static FFmpeg Binaries
+      <h4><a href="https://github.com/shaka-project/shaka-project.github.io/">
+        Shaka Project Documentation
       </a></h4>
-      Static binaries for multiple OS & CPU combinations, built from source in
-      plain view with GitHub Actions.  (Used by Shaka Streamer.)
+      <a href="https://shaka-project.github.io/">Documentation for maintenance and development processes</a> across Shaka projects.
+    </td>
+    <td valign="top" align="center" width="25%">
+      <h4><a href="https://github.com/joeyparrish/shaka-player-ph/">
+        Shaka Player Project Health
+      </a></h4>
+      Tracking <a href="https://joeyparrish.github.io/shaka-player-ph/">Project Health (PH) metrics for Shaka Player</a>.
+    </td>
+    <td valign="top" align="center" width="25%">
+      <h4><a href="https://github.com/shaka-project/shaka-github-tools/">
+        Shaka GitHub Tools
+      </a></h4>
+      Tools and infrastructure shared among Shaka team projects on GitHub.
     </td>
     <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/shaka-project/karma-local-wd-launcher/">
@@ -86,27 +118,6 @@
       A simple Chocolatey package server for Express, used to serve <a href="https://github.com/shaka-project/shaka-lab/">Shaka Lab packages</a> for Windows.
     </td>
     <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/shaka-project/shaka-github-tools/">
-        Shaka GitHub Tools
-      </a></h4>
-      Tools and infrastructure shared among Shaka team projects on GitHub.
-    </td>
-    <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/shaka-project/shaka-project.github.io/">
-        Shaka Project Documentation
-      </a></h4>
-      <a href="https://shaka-project.github.io/">Documentation for maintenance and development processes</a> across Shaka projects.
-    </td>
-    <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/joeyparrish/shaka-player-ph/">
-        Shaka Player Project Health
-      </a></h4>
-      Tracking <a href="https://joeyparrish.github.io/shaka-player-ph/">Project Health (PH) metrics for Shaka Player</a>.
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/google/triage-party/">
         Triage Party
         <img alt="Triage Party logo" src="logos/Triage-Party.png" style="width: 1em">
@@ -124,9 +135,6 @@
         Chromecast debugging receivers
       </a></h4>
       Some <a href="https://joeyparrish.github.io/chromecast-receivers/">useful Chromecast receivers for debugging</a>.
-    </td>
-    <td valign="top" align="center" width="25%">
-      <img alt="" src="logos/spacer-512.png">
     </td>
   </tr>
 
