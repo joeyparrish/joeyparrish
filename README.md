@@ -1,11 +1,23 @@
 <!-- This HTML is also valid GitHub MarkDown.  Who knew?-->
 
 <h1>
-  Joey Parrish
+  Joey Parrish ・ GitHub Portfolio
   <img alt="Joey Parrish" src="Joey-circle.png" height="48" align="right">
 </h1>
 
-<div align="right"><a href="#contact">Contact</a></div>
+<div align="right">
+  Software Engineer specializing in Video Streaming Technologies
+</div>
+
+<div align="right">
+  <a href="https://joeyparrish.github.io/joeyparrish/">GitHub Portfolio</a> ・
+  <a href="https://joeyparrish.github.io/joeyparrish/contact.html">Contact</a> ・
+  <a href="https://www.linkedin.com/in/joeyparrish/">LinkedIn</a> ・
+  <a href="https://joeyparrish.github.io/joeyparrish/resume.html">Resume</a> ・
+  <a href="https://joeyparrish.github.io/joeyparrish/publications.html">Publications</a>
+</div>
+
+<hr>
 
 <h2>Professional Projects</h2>
 
@@ -509,15 +521,3 @@
     </tr>
   </table>
 </details>
-
-<br><br>
-
-<hr>
-
-<h2 id="contact">Contact</h2>
-
-<div>Email: <a href="mailto:joey.parrish@gmail.com">joey.parrish@gmail.com</a></div>
-<div>video-dev Slack: <a href="https://video-dev.org/">https://video-dev.org/</a></div>
-<div>LinkedIn: <a href="https://www.linkedin.com/in/joey-parrish-64258a297/">https://www.linkedin.com/in/joey-parrish-64258a297/</a></div>
-<div>Pokemon Go: 6171 9255 3006 <a href="logos/trainer-code.png">(QR)</a></div>
-<div>Sorry, I don't do social media.</div>

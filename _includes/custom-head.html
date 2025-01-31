@@ -1,0 +1,16 @@
+<title>About Joey Parrish</title>
+
+<script>
+// We need absolute links for GitHub-rendered Markdown, but we want relative
+// links for local testing & development.
+if (location.hostname == 'localhost') {
+  document.addEventListener('DOMContentLoaded', () => {
+    const canonical = 'https://joeyparrish.github.io/joeyparrish/';
+    for (const a of document.querySelectorAll('a')) {
+      if (a.href.startsWith(canonical)) {
+        a.href = a.href.replace(canonical, './');
+      }
+    }
+  });
+}
+</script>
