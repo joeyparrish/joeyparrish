@@ -168,13 +168,6 @@
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/shaka-project/eme-encryption-scheme-polyfill/">
-        EME Encryption Scheme Polyfill
-      </a></h4>
-      A polyfill to add encryption scheme query support to both the EME and
-      MediaCapabilities APIs.
-    </td>
-    <td valign="top" align="center" width="25%">
       <h4>EME Logger Chrome Extension</h4>
       Logs and debugs all activity through EME and related media APIs.
       <ul align="left">
@@ -187,6 +180,9 @@
         Trace Anything
       </a></h4>
       The generic tracing engine behind EME Logger.
+    </td>
+    <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
     </td>
   </tr>
 </table>
@@ -492,6 +488,7 @@
           RetCon
         </a></h4>
         Wireless PS3 controllers on 8-bit and 16-bit consoles.
+        <br>
         Deprecated in favor of products from
         <a href="https://www.8bitdo.com/">8bitdo.com</a>.<br>
         <ul align="left">
@@ -504,6 +501,7 @@
             Shaka Player Embedded
         </a></h4>
         Streaming media playback in iOS native.
+        <br>
         Deprecated due to lack of internal funding and external interest.
       </td>
       <td valign="top" align="center" width="25%">
@@ -511,12 +509,37 @@
           Karma GitHub Actions Reporter
         </a></h4>
         A Karma plugin to report failed tests via GitHub Actions annotations.
+        <br>
+        Developed for Shaka Player workflows, but never used.
       </td>
       <td valign="top" align="center" width="25%">
         <h4><a href="https://github.com/joeyparrish/apple-logger/">
           Apple Logger
         </a></h4>
         Command-line tool to write to Apple's Unified Logging interface.
+        <br>
+        Not needed for the Shaka lab after all.  Logs are written to a file
+        instead.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" align="center" width="25%">
+        <h4><a href="https://github.com/shaka-project/eme-encryption-scheme-polyfill/">
+          EME Encryption Scheme Polyfill
+        </a></h4>
+        A polyfill to add encryption scheme query support to both the EME and
+        MediaCapabilities APIs.
+        <br>
+        Folded into Shaka Player and archived.
+      </td>
+      <td valign="top" align="center" width="25%">
+        <img alt="" src="logos/spacer-512.png">
+      </td>
+      <td valign="top" align="center" width="25%">
+        <img alt="" src="logos/spacer-512.png">
+      </td>
+      <td valign="top" align="center" width="25%">
+        <img alt="" src="logos/spacer-512.png">
       </td>
     </tr>
   </table>
