@@ -22,7 +22,7 @@ layout: home
 <hr>
 
 <div>Email: <a href="mailto:joey.parrish@gmail.com">joey.parrish@gmail.com</a></div>
-<div>video-dev Slack: <a href="https://video-dev.org/">https://video-dev.org/</a></div>
+<div>video-dev Discord: <a href="https://video-dev.org/discord">https://video-dev.org/discord</a></div>
 <div>LinkedIn: <a href="https://www.linkedin.com/in/joeyparrish/">https://www.linkedin.com/in/joeyparrish/</a></div>
 <div>Pokemon Go: 6171 9255 3006 <a href="logos/trainer-code.png">(QR)</a></div>
 <div>Sorry, I don't do social media.</div>
