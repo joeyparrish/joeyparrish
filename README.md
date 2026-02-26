@@ -17,6 +17,10 @@
   <a href="https://joeyparrish.github.io/joeyparrish/publications.html">Publications</a>
 </div>
 
+<style>
+li { text-align: left; }
+</style>
+
 <hr>
 
 <h2>Professional Projects</h2>
