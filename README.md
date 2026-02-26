@@ -256,6 +256,47 @@
   </tr>
 </table>
 
+<h3>Old Game Consoles</h3>
+
+<table>
+  <tr>
+    <td valign="top" align="center" width="25%">
+      <h4><a href="https://github.com/joeyparrish/kinetoscope/">
+        <picture>
+          <source srcset="logos/Kinetoscope-dark.png" media="(prefers-color-scheme: dark)" />
+          <source srcset="logos/Kinetoscope.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img alt="Kinetoscope" src="logos/Kinetoscope.png">
+        </picture><br>
+        Kinetoscope
+      </a></h4>
+      Streaming video for the Sega Genesis / Mega Drive!
+      <ul align="left">
+        <li><a href="https://joeyparrish.github.io/kinetoscope/">Web Emulator Demo</a></li>
+        <li><a href="https://github.com/joeyparrish/kinetoscope/releases">Releases</a></li>
+        <li><a href="https://github.com/joeyparrish/kinetoscope/">GitHub</a></li>
+      </ul>
+    </td>
+    <td valign="top" align="center" width="25%">
+      <h4><a href="https://github.com/joeyparrish/sega-slides/">
+        Sega Genesis Slide Generator and Viewer
+      </a></h4>
+      Create a Sega Genesis / Mega Drive ROM from a PDF of a slide show.
+    </td>
+    <td valign="top" align="center" width="25%">
+      <h4><a href="https://github.com/joeyparrish/flashkit-md-py/">
+        FlashKit MD Python Client
+      </a></h4>
+      Drive the <a href="https://krikzz.com/our-products/accessories/flashkitmd.html">Krikzz FlashKit Programmer MD</a> to flash Sega Genesis carts from the command-line.
+      <ul align="left">
+        <li><a href="https://pypi.org/project/flashkit/">PyPi</a></li>
+        <li><a href="https://github.com/joeyparrish/flashkit-md-py/">GitHub</a></li>
+      </ul>
+    </td>
+    <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
+    </td>
+  </tr>
+</table>
 
 <h3>Publications</h3>
 
@@ -390,7 +431,12 @@
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
-      <img alt="" src="logos/spacer-512.png">
+      <h4><a href="https://github.com/joeyparrish/mpa/">
+        Moon Position Algorithm
+      </a></h4>
+      A C++ algorithm for computing the position of the moon.<br>
+      A stripped-down version of <a href="https://midcdmz.nrel.gov/sampa/">SAMPA</a>
+      (Sun And Moon Position Algorithm) that can run on some microcontrollers.
     </td>
   </tr>
 
@@ -402,53 +448,10 @@
       A simple SSH jumpbox in a Docker container.
     </td>
     <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/joeyparrish/mpa/">
-        Moon Position Algorithm
-      </a></h4>
-      A C++ algorithm for computing the position of the moon.<br>
-      A stripped-down version of <a href="https://midcdmz.nrel.gov/sampa/">SAMPA</a>
-      (Sun And Moon Position Algorithm) that can run on some microcontrollers.
+      <img alt="" src="logos/spacer-512.png">
     </td>
     <td valign="top" align="center" width="25%">
         <img alt="" src="logos/spacer-512.png">
-    </td>
-    <td valign="top" align="center" width="25%">
-      <img alt="" src="logos/spacer-512.png">
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/joeyparrish/kinetoscope/">
-        <picture>
-          <source srcset="logos/Kinetoscope-dark.png" media="(prefers-color-scheme: dark)" />
-          <source srcset="logos/Kinetoscope.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img alt="Kinetoscope" src="logos/Kinetoscope.png">
-        </picture><br>
-        Kinetoscope
-      </a></h4>
-      Streaming video for the Sega Genesis / Mega Drive!
-      <ul align="left">
-        <li><a href="https://joeyparrish.github.io/kinetoscope/">Web Emulator Demo</a></li>
-        <li><a href="https://github.com/joeyparrish/kinetoscope/releases">Releases</a></li>
-        <li><a href="https://github.com/joeyparrish/kinetoscope/">GitHub</a></li>
-      </ul>
-    </td>
-    <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/joeyparrish/sega-slides/">
-        Sega Genesis Slide Generator and Viewer
-      </a></h4>
-      Create a Sega Genesis / Mega Drive ROM from a PDF of a slide show.
-    </td>
-    <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/joeyparrish/flashkit-md-py/">
-        FlashKit MD Python Client
-      </a></h4>
-      Drive the <a href="https://krikzz.com/our-products/accessories/flashkitmd.html">Krikzz FlashKit Programmer MD</a> to flash Sega Genesis carts from the command-line.
-      <ul align="left">
-        <li><a href="https://pypi.org/project/flashkit/">PyPi</a></li>
-        <li><a href="https://github.com/joeyparrish/flashkit-md-py/">GitHub</a></li>
-      </ul>
     </td>
     <td valign="top" align="center" width="25%">
       <img alt="" src="logos/spacer-512.png">
