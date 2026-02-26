@@ -410,27 +410,10 @@
       (Sun And Moon Position Algorithm) that can run on some microcontrollers.
     </td>
     <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/joeyparrish/get-thee-to-it/">
-        get.thee.to.it
-      </a></h4>
-      Experimental link shortener served entirely from GitHub.<br>
-      Use GitHub Pages deployments as a link shortener, GitHub Actions as the
-      UI, and the GitHub repo as a database.
-      <ul align="left">
-        <li><a href="https://get.thee.to.it/latteart">Sample Short Link</a></li>
-        <li><a href="https://github.com/joeyparrish/get-thee-to-it/">GitHub</a></li>
-      </ul>
+        <img alt="" src="logos/spacer-512.png">
     </td>
     <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/joeyparrish/lego-spike-electron-app/">
-        LEGO SPIKE Electron App
-      </a></h4>
-      Give your kid access to the LEGO SPIKE web app without a full browser.<br>
-      Debian packages hosted on GitHub Pages, installable with apt.
-      <ul align="left">
-        <li><a href="https://github.com/joeyparrish/lego-spike-electron-app/#readme">GitHub</a></li>
-        <li><a href="https://education.lego.com/en-us/products/lego-education-spike-prime-set/45678/">LEGO SPIKE Prime Kit for First Lego League</a></li>
-      </ul>
+      <img alt="" src="logos/spacer-512.png">
     </td>
   </tr>
 
@@ -533,10 +516,27 @@
         Folded into Shaka Player and archived.
       </td>
       <td valign="top" align="center" width="25%">
-        <img alt="" src="logos/spacer-512.png">
+        <h4><a href="https://github.com/joeyparrish/lego-spike-electron-app/">
+          LEGO SPIKE Electron App
+        </a></h4>
+        Give your kid access to the LEGO SPIKE web app without a full browser.<br>
+        Debian packages hosted on GitHub Pages, installable with apt.
+        <ul align="left">
+          <li><a href="https://github.com/joeyparrish/lego-spike-electron-app/#readme">GitHub</a></li>
+          <li><a href="https://education.lego.com/en-us/products/lego-education-spike-prime-set/45678/">LEGO SPIKE Prime Kit for First Lego League</a></li>
+        </ul>
       </td>
       <td valign="top" align="center" width="25%">
-        <img alt="" src="logos/spacer-512.png">
+        <h4><a href="https://github.com/joeyparrish/get-thee-to-it/">
+          get.thee.to.it
+        </a></h4>
+        Experimental link shortener served entirely from GitHub.<br>
+        Use GitHub Pages deployments as a link shortener, GitHub Actions as the
+        UI, and the GitHub repo as a database.
+        <ul align="left">
+          <li><a href="https://get.thee.to.it/latteart">Sample Short Link</a></li>
+          <li><a href="https://github.com/joeyparrish/get-thee-to-it/">GitHub</a></li>
+        </ul>
       </td>
       <td valign="top" align="center" width="25%">
         <img alt="" src="logos/spacer-512.png">
