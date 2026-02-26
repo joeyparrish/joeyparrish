@@ -448,13 +448,26 @@
       A simple SSH jumpbox in a Docker container.
     </td>
     <td valign="top" align="center" width="25%">
-      <img alt="" src="logos/spacer-512.png">
+      <h4><a href="https://github.com/joeyparrish/first-bank-of-pig/">
+        First Bank of Pig
+      </a></h4>
+      A simple, open source, Android piggy bank app for tracking kids' savings.<br>
+      <ul align="left">
+        <li><a href="https://github.com/joeyparrish/first-bank-of-pig/">GitHub</a></li>
+        <li><a href="https://play.google.com/store/apps/details?id=io.github.joeyparrish.fbop">Play Store</a></li>
+      </ul>
     </td>
     <td valign="top" align="center" width="25%">
-        <img alt="" src="logos/spacer-512.png">
+      <h4><a href="https://github.com/joeyparrish/nest-logger/">
+        Nest Temperature Logger
+      </a></h4>
+      Log temps from all Nest room sensors and graph and annotate them over time.
     </td>
     <td valign="top" align="center" width="25%">
-      <img alt="" src="logos/spacer-512.png">
+      <h4><a href="https://github.com/joeyparrish/matter-power-control">
+        Matter Power Strip Tool
+      </a></h4>
+      Simplifies the command line setup and control of Matter power strips.
     </td>
   </tr>
 </table>
