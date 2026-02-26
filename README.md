@@ -435,12 +435,15 @@ li { text-align: left; }
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/joeyparrish/mpa/">
-        Moon Position Algorithm
+      <h4><a href="https://github.com/joeyparrish/first-bank-of-pig/">
+        <img alt="First Bank of Pig logo" src="logos/first-bank-of-pig.png"><br>
+        First Bank of Pig
       </a></h4>
-      A C++ algorithm for computing the position of the moon.<br>
-      A stripped-down version of <a href="https://midcdmz.nrel.gov/sampa/">SAMPA</a>
-      (Sun And Moon Position Algorithm) that can run on some microcontrollers.
+      A simple, open source, Android piggy bank app for tracking kids' savings.<br>
+      <ul align="left">
+        <li><a href="https://github.com/joeyparrish/first-bank-of-pig/">GitHub</a></li>
+        <li><a href="https://play.google.com/store/apps/details?id=io.github.joeyparrish.fbop">Play Store</a></li>
+      </ul>
     </td>
   </tr>
 
@@ -452,14 +455,12 @@ li { text-align: left; }
       A simple SSH jumpbox in a Docker container.
     </td>
     <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/joeyparrish/first-bank-of-pig/">
-        First Bank of Pig
+      <h4><a href="https://github.com/joeyparrish/mpa/">
+        Moon Position Algorithm
       </a></h4>
-      A simple, open source, Android piggy bank app for tracking kids' savings.<br>
-      <ul align="left">
-        <li><a href="https://github.com/joeyparrish/first-bank-of-pig/">GitHub</a></li>
-        <li><a href="https://play.google.com/store/apps/details?id=io.github.joeyparrish.fbop">Play Store</a></li>
-      </ul>
+      A C++ algorithm for computing the position of the moon.<br>
+      A stripped-down version of <a href="https://midcdmz.nrel.gov/sampa/">SAMPA</a>
+      (Sun And Moon Position Algorithm) that can run on some microcontrollers.
     </td>
     <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/joeyparrish/nest-logger/">
