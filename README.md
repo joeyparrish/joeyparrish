@@ -449,6 +449,13 @@ li { text-align: left; }
 
   <tr>
     <td valign="top" align="center" width="25%">
+      <h4><a href="https://github.com/joeyparrish/backpacker">
+        <img alt="Backpacker logo" src="logos/backpacker.png"><br>
+        Backpacker
+      </a></h4>
+      An Android app that automates Pokéstop spinning in Pokémon GO.
+    </td>
+    <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/joeyparrish/ssh-docker-jumpbox/">
         SSH Docker Jumpbox
       </a></h4>
@@ -468,11 +475,23 @@ li { text-align: left; }
       </a></h4>
       Log temps from all Nest room sensors and graph and annotate them over time.
     </td>
+  </tr>
+
+  <tr>
     <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/joeyparrish/matter-power-control">
         Matter Power Strip Tool
       </a></h4>
       Simplifies the command line setup and control of Matter power strips.
+    </td>
+    <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
+    </td>
+    <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
+    </td>
+    <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
     </td>
   </tr>
 </table>
