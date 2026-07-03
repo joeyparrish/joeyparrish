@@ -155,6 +155,25 @@ li { text-align: left; }
   </tr>
 
   <tr>
+    <td valign="top" align="center" width="25%">
+      <h4><a href="https://github.com/joeyparrish/open-cea/">
+        Open CEA
+      </a></h4>
+      A TypeScript library and command-line tool for generating CEA-608 and
+      CEA-708 closed captions.
+    </td>
+    <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
+    </td>
+    <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
+    </td>
+    <td valign="top" align="center" width="25%">
+      <img alt="" src="logos/spacer-512.png">
+    </td>
+  </tr>
+
+  <tr>
     <th colspan="4" style="text-align: center">
       <h3><a href="https://w3c.github.io/encrypted-media/">
         <img alt="EME logo" src="logos/EME.png" width="25%"><br>
@@ -420,19 +439,12 @@ li { text-align: left; }
       </ul>
     </td>
     <td valign="top" align="center" width="25%">
-      <h4><a href="https://github.com/joeyparrish/lmrtfy/">
-        <picture>
-          <source srcset="logos/LMRTFY-dark.png" media="(prefers-color-scheme: dark)" />
-          <source srcset="logos/LMRTFY.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img alt="LMRTFY logo" src="logos/LMRTFY.png">
-        </picture><br>
-        LMRTFY
+      <h4><a href="https://github.com/joeyparrish/seleya/">
+        <img alt="Seleya logo" src="logos/Seleya.png"><br>
+        Seleya
       </a></h4>
-      A clone of "Let Me Google That For You", with a twist.
-      <ul align="left">
-        <li><a href="https://rickthat.com/">Web Site</a></li>
-        <li><a href="https://github.com/joeyparrish/lmrtfy/">GitHub</a></li>
-      </ul>
+      A self-hosted dashboard that gathers open issues and pull requests from
+      many GitHub repos and orgs into one configurable web view.
     </td>
     <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/joeyparrish/first-bank-of-pig/">
@@ -456,6 +468,21 @@ li { text-align: left; }
       An Android app that automates Pokéstop spinning in Pokémon GO.
     </td>
     <td valign="top" align="center" width="25%">
+      <h4><a href="https://github.com/joeyparrish/lmrtfy/">
+        <picture>
+          <source srcset="logos/LMRTFY-dark.png" media="(prefers-color-scheme: dark)" />
+          <source srcset="logos/LMRTFY.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img alt="LMRTFY logo" src="logos/LMRTFY.png">
+        </picture><br>
+        LMRTFY
+      </a></h4>
+      A clone of "Let Me Google That For You", with a twist.
+      <ul align="left">
+        <li><a href="https://rickthat.com/">Web Site</a></li>
+        <li><a href="https://github.com/joeyparrish/lmrtfy/">GitHub</a></li>
+      </ul>
+    </td>
+    <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/joeyparrish/ssh-docker-jumpbox/">
         SSH Docker Jumpbox
       </a></h4>
@@ -469,15 +496,15 @@ li { text-align: left; }
       A stripped-down version of <a href="https://midcdmz.nrel.gov/sampa/">SAMPA</a>
       (Sun And Moon Position Algorithm) that can run on some microcontrollers.
     </td>
+  </tr>
+
+  <tr>
     <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/joeyparrish/nest-logger/">
         Nest Temperature Logger
       </a></h4>
       Log temps from all Nest room sensors and graph and annotate them over time.
     </td>
-  </tr>
-
-  <tr>
     <td valign="top" align="center" width="25%">
       <h4><a href="https://github.com/joeyparrish/matter-power-control">
         Matter Power Strip Tool
@@ -485,7 +512,42 @@ li { text-align: left; }
       Simplifies the command line setup and control of Matter power strips.
     </td>
     <td valign="top" align="center" width="25%">
-      <img alt="" src="logos/spacer-512.png">
+      <h4><a href="https://joeyparrish.github.io/qr-backup/">
+        QR Backup
+      </a></h4>
+      A completely client-side tool for backing up data as QR codes.
+      <ul align="left">
+        <li><a href="https://github.com/joeyparrish/qr-backup/">GitHub</a></li>
+        <li><a href="https://joeyparrish.github.io/qr-backup/">Web App</a></li>
+      </ul>
+    </td>
+    <td valign="top" align="center" width="25%">
+      <h4><a href="https://github.com/joeyparrish/elvish-translation-tools/">
+        Elvish Translation Tools
+      </a></h4>
+      Tools for translating text into Tolkien's Elvish languages, Sindarin and
+      Quenya, including an AI agent skill.
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" align="center" width="25%">
+      <h4><a href="https://github.com/joeyparrish/shaka-sjn-translation/">
+        Shaka Player in Sindarin
+      </a></h4>
+      A maintenance workspace for the Sindarin (Elvish) translation of the
+      Shaka Player UI.
+      <ul align="left">
+        <li><a href="https://github.com/joeyparrish/shaka-sjn-translation/">GitHub</a></li>
+        <li><a href="https://joeyparrish.github.io/shaka-sjn-translation/">Preview</a></li>
+      </ul>
+    </td>
+    <td valign="top" align="center" width="25%">
+      <h4><a href="https://github.com/joeyparrish/sysadmin-repo-setup/">
+        Sysadmin Repo Setup
+      </a></h4>
+      A Claude Code skill for scaffolding git-backed sysadmin documentation
+      repositories.
     </td>
     <td valign="top" align="center" width="25%">
       <img alt="" src="logos/spacer-512.png">
