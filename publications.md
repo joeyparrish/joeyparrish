@@ -54,4 +54,5 @@ layout: home
 - **Some Nonlinear Rado Numbers** ・ April 27, 2018 ・ Co-authored with [Kellen Myers](https://www.kellenmyers.org/), lead author<br>
   *[Integers](https://math.colgate.edu/~integers/), [Volume 18B](https://math.colgate.edu/~integers/vol18b.html)*<br>
   We discuss the computation of Rado numbers for several families of nonlinear equations, including equations comprised of sums of squares, in the spirit of the recently resolved conjecture of Erdős and Graham regarding the equation x^2 + y^2 = z^2. We provide (uniform) upper bounds for the 2- and 3-color Rado numbers of some such equations, as well as Rado numbers for a variety of other well-known nonlinear equations.<br>
-  [PDF](https://math.colgate.edu/~integers/s18b6/s18b6.pdf)
+  [PDF](https://math.colgate.edu/~integers/s18b6/s18b6.pdf)<br>
+  [My Erdős number is 4.](https://www.csauthors.net/distance/joseph-parrish/paul-erdos)
